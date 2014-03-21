@@ -5,7 +5,7 @@ A convening place for ETL, data integration, and "plumbing the pipes" of governm
 
 ## What is this?
 
-I recently wrote up a short blog post entitled ["ETL for America"](http://daguar.github.io/2014/03/17/etl-for-america/) callin out the need for more talking, code, and collaboration around the dirty work of dealing with government data.
+I recently wrote up a short blog post entitled ["ETL for America"](http://daguar.github.io/2014/03/17/etl-for-america/) calling out the need for more talking, code, and collaboration around the dirty work of dealing with government data.
 
 It seems to have resonated, and my e-mail doesn't scale. I set up this GitHub repo to facilitate open communication and resource-sharing on this topic, and connect the many interested people together.
 
