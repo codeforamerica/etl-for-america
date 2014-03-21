@@ -13,11 +13,11 @@ It seems to have struck a chord, and my e-mail doesn't scale for convening peopl
 
 For this v0.1 alpha, there are two ways to engage:
 
-### [The Wiki](https://github.com/daguar/etl-for-america/wiki): resources and links
+- [The Wiki](https://github.com/daguar/etl-for-america/wiki): resources and links
 
-Use [the wiki](https://github.com/daguar/etl-for-america/wiki) to view and share resources (tutorials, tools, code examples, blog posts, books, etc.)
+  - Use the wiki to view and share resources (tutorials, tools, code examples, blog posts, books, etc.)
 
-### [Issues](https://github.com/daguar/etl-for-america/issues): discussion and ideas
+- [Issues](https://github.com/daguar/etl-for-america/issues): discussion and ideas
 
-Use [Issues](https://github.com/daguar/etl-for-america/issues) for general discussions (everything is okay!) as well as ideas for projects
+  - Use Issues for general discussions (everything is okay!) as well as ideas for projects
 
